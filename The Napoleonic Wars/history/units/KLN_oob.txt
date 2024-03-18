@@ -1,0 +1,44 @@
+leader = {
+    name = "leader_name"
+    date = 1799.1.1
+    type = land
+    personality = balanced_p
+    background = adventurer
+    prestige = 0.05
+}
+
+army = {
+    name = "Köln Guard"
+    location = 581
+    
+    regiment = {
+        name = "name"
+        type = infantry
+        home = 575
+    }
+    regiment = {
+        name = "name2"
+        type = infantry
+        home = 575
+    }
+    regiment = {
+        name = "name3"
+        type = cuirassier
+        home = 581
+    }
+    regiment = {
+        name = "name4"
+        type = cuirassier
+        home = 581
+    }
+    regiment = {
+        name = "name5"
+        type = artillery
+        home = 580
+    }
+    regiment = {
+        name = "name6"
+        type = dragoon
+        home = 580
+    }
+}
