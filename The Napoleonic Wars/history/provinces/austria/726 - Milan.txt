@@ -1,5 +1,6 @@
-owner = AUS
-controller = AUS
+owner = CIS
+controller = CIS
+add_core = CIS
 add_core = LOM
 add_core = ITA
 trade_goods = iron

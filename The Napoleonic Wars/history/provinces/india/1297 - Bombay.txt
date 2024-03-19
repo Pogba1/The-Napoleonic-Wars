@@ -1,5 +1,6 @@
-owner = ENG
-controller = ENG
+owner = IND
+controller = IND
+add_core = IND
 add_core = HND
 trade_goods = grain
 life_rating = 32

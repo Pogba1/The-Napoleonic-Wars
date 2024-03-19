@@ -1,29 +1,11 @@
 #Sphere of Influence
-PER = {
-	value = 75		#relation
-	level = 2		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-
-EGY = {
-	value = 0		#relation
-	level = 1		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-
-GRE = {
-	value = -25		#relation
-	level = 0		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-
 TUN = {
 	value = 125		#relation
 	level = 3		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 25
 }
 
-SER = {
+ALD = {
 	value = 75		#relation
 	level = 5		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 25
@@ -102,7 +84,7 @@ leader = {
 }
 
 leader = {
-	name = "Abdülkerim Pasha"
+	name = "Abdï¿½lkerim Pasha"
 	date = 1836.1.1
 	type = land
 	personality = active_p
@@ -170,25 +152,25 @@ army = {
 	}
 
 	regiment = {
-		name= "1. Piyade Tümeni"
+		name= "1. Piyade Tï¿½meni"
 		type = infantry
 		home = 802
 	}
 
 	regiment = {
-		name= "2. Piyade Tümeni"
+		name= "2. Piyade Tï¿½meni"
 		type = infantry
 		home = 803
 	}
 
 	regiment = {
-		name= "3. Piyade Tümeni"
+		name= "3. Piyade Tï¿½meni"
 		type = infantry
 		home = 803
 	}
 
 	regiment = {
-		name= "4. Piyade Tümeni"
+		name= "4. Piyade Tï¿½meni"
 		type = artillery
 		home = 804
 	}
@@ -241,25 +223,25 @@ army = {
 	name = "Army of Anatolia"
 	location = 878
 	regiment = {
-		name= "5. Piyade Tümeni"
+		name= "5. Piyade Tï¿½meni"
 		type = infantry
 		home = 882
 	}
 
 	regiment = {
-		name= "6. Piyade Tümeni"
+		name= "6. Piyade Tï¿½meni"
 		type = infantry
 		home = 884
 	}
 
 	regiment = {
-		name= "7. Piyade Tümeni"
+		name= "7. Piyade Tï¿½meni"
 		type = infantry
 		home = 879
 	}
 
 	regiment = {
-		name= "8. Piyade Tümeni"
+		name= "8. Piyade Tï¿½meni"
 		type = artillery
 		home = 888
 	}
@@ -324,19 +306,19 @@ army = {
 	}
 
 	regiment = {
-		name= "9. Piyade Tümeni"
+		name= "9. Piyade Tï¿½meni"
 		type = infantry
 		home = 813
 	}
 
 	regiment = {
-		name= "10. Piyade Tümeni"
+		name= "10. Piyade Tï¿½meni"
 		type = infantry
 		home = 818
 	}
 
 	regiment = {
-		name= "11. Piyade Tümeni"
+		name= "11. Piyade Tï¿½meni"
 		type = infantry
 		home = 674
 	}
@@ -365,19 +347,19 @@ army = {
 	name = "Army of Arabia"
 	location = 925
 	regiment = {
-		name= "12. Piyade Tümeni"
+		name= "12. Piyade Tï¿½meni"
 		type = infantry
 		home = 925
 	}
 
 	regiment = {
-		name= "13. Piyade Tümeni"
+		name= "13. Piyade Tï¿½meni"
 		type = infantry
 		home = 925
 	}
 
 	regiment = {
-		name= "14. Piyade Tümeni"
+		name= "14. Piyade Tï¿½meni"
 		type = infantry
 		home = 926
 	}
@@ -422,13 +404,13 @@ army = {
 	name = "Army of the Bey of Benghazi"
 	location = 1735
 	regiment = {
-		name= "1. Askäris"
+		name= "1. Askï¿½ris"
 		type = irregular
 		home = 1735
 	}
 
 	regiment = {
-		name= "2. Askäris"
+		name= "2. Askï¿½ris"
 		type = irregular
 		home = 1734
 	}

@@ -79,18 +79,6 @@ HEK = {
 
 }
 
-HES = {
-
-	value = 125
-
-	level = 5
-
-	influence_value = 25
-
-	military_access = yes
-
-}
-
 KRA = {
 
 	value = 125
@@ -278,7 +266,7 @@ leader = {
 }
 
 leader = {
-	name = "Baron von Müffling"
+	name = "Baron von Mï¿½ffling"
 	date = 1813.1.1
 	type = land
 	personality = diplomatic
@@ -305,7 +293,7 @@ leader = {
 }
 
 leader = {
-	name = "Rühle von Lilienstern"
+	name = "Rï¿½hle von Lilienstern"
 	date = 1819.1.1
 	type = land
 	personality = intelligent
@@ -700,7 +688,7 @@ army = {
 }
 
 navy = {
-	name = "Königlich Preußische Marine"
+	name = "Kï¿½niglich Preuï¿½ische Marine"
 	location = 690
 	ship = {
 		name= "1. Klipperflottille"

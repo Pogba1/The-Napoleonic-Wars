@@ -1,6 +1,6 @@
-owner = PAP
-controller = PAP
-add_core = PAP
+owner = CIS
+controller = CIS
+add_core = CIS
 add_core = ITA
 trade_goods = grain
 life_rating = 35

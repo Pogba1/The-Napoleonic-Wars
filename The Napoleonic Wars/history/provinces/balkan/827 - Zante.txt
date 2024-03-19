@@ -1,6 +1,6 @@
-owner = ION
-controller = ION
-add_core = ION
+owner = TUR
+controller = FRA
+add_core = TUR
 add_core = GRE
 trade_goods = fish
 life_rating = 35
