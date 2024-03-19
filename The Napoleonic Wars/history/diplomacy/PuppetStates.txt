@@ -159,3 +159,11 @@ vassal = {
 	start_date= 1799.11.11
 	end_date= 1936.1.1
 }
+
+#Spain-NewSpain
+vassal = {
+	first = SPA
+	second = NPS
+	start_date= 1799.11.11
+	end_date= 1936.1.1
+}

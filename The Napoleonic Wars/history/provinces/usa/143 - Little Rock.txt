@@ -1,12 +1,12 @@
-owner = USA
-controller = USA
-add_core = USA 
+owner = NPS
+controller = NPS # Anything typed here will be added to all selected province history files
+add_core = NPS # Anything typed here will be added to all selected province history files
 add_core = CHE
 trade_goods = grain
 life_rating = 35
-1861.1.1 = {
-	controller = CSA
-	owner = CSA
-	add_core = CSA
-	remove_core = CHE
+1861.1.1 = { 
+    controller = CSA
+    owner = CSA
+    add_core = CSA
+    remove_core = CHE
 }

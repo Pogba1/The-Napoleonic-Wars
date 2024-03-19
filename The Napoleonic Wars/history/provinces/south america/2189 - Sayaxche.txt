@@ -1,6 +1,6 @@
-owner = UCA
-controller = UCA
-add_core = UCA
+owner = NPS
+controller = NPS
+add_core = NPS
 add_core = GUA
 trade_goods = timber
 life_rating = 30

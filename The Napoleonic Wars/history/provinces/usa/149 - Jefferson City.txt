@@ -1,6 +1,6 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = NPS
+controller = NPS # Anything typed here will be added to all selected province history files
+add_core = NPS # Anything typed here will be added to all selected province history files
 trade_goods = coal
 life_rating = 35
-1861.1.1 = { railroad = 1 }
+1861.1.1 = { railroad = 1 } 

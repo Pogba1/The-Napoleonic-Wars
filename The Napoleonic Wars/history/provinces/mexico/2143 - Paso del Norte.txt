@@ -1,5 +1,6 @@
-owner = MEX
-controller = MEX
+owner = NPS
+controller = NPS
+add_core = NPS
 add_core = MEX
 trade_goods = grain
 life_rating = 35

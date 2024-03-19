@@ -1,8 +1,11 @@
 trade_goods = grain
 life_rating = 35
-1861.1.1 = {
-	owner = CSA
-	controller = CSA
-	add_core = CSA
-	add_core = CHE
+owner = NPS
+controller = NPS
+add_core = NPS # Anything typed here will be added to all selected province history files
+1861.1.1 = { 
+    owner = CSA
+    controller = CSA
+    add_core = CSA
+    add_core = CHE
 }
