@@ -1,5 +1,8 @@
-owner = ARG
-controller = ARG
-add_core = ARG
+owner = LAP
+
+controller = LAP
+
+add_core = LAP
 trade_goods = fruit
-life_rating = 35
+
+life_rating = 35

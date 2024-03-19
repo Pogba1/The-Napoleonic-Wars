@@ -1,4 +1,6 @@
-owner = ARG
-controller = ARGadd_core = ARG
+owner = LAP
+controller = LAP
+add_core = LAP
 trade_goods = cattle
-life_rating = 351861.1.1 = { railroad = 1 }
+life_rating = 35
+1861.1.1 = { railroad = 1 }

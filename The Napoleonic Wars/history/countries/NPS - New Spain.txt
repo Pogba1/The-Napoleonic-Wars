@@ -1,4 +1,4 @@
-capital = 487
+capital = 2172
 primary_culture = spanish
 culture = mexican
 culture = central_american
@@ -81,13 +81,7 @@ govt_flag = {
 	government = absolute_monarchy
 }
 
-1837.1.1 = {
-	decision = confiscations_of_mendizabal
-}
-
-1844.5.13 = {
-	decision = establish_la_guardia_civil
-}
+set_country_flag = new_world_nation
 
 1861.1.1 = {
 	oob = "/1861/SPA_oob.txt"

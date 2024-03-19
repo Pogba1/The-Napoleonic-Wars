@@ -1,5 +1,5 @@
-owner = PEU
-controller = PEU
-add_core = PEU
+owner = NPE
+controller = NPE
+add_core = NPE
 trade_goods = timber
 life_rating = 30

@@ -1,5 +1,5 @@
-owner = URU
-controller = URU
-add_core = URU
+owner = LAP
+controller = LAP
+add_core = LAP
 trade_goods = cattle
 life_rating = 35

@@ -160,10 +160,34 @@ vassal = {
 	end_date= 1936.1.1
 }
 
-#Spain-NewSpain
+#Spain-New Spain
 vassal = {
 	first = SPA
 	second = NPS
 	start_date= 1799.11.11
 	end_date= 1936.1.1
+}
+
+#Spain-New Granada
+vassal = {
+	first = SPA
+	second = GRA
+	start_date= 1799.11.11
+	end_date= 1936.1.1	
+}
+
+#Spain-Peru
+vassal = {
+	first = SPA
+	second = NPE
+	start_date= 1799.11.11
+	end_date= 1936.1.1	
+}
+
+#Spain-La Plata
+vassal = {
+	first = SPA
+	second = LAP
+	start_date= 1799.11.11
+	end_date= 1936.1.1	
 }

@@ -1,6 +1,6 @@
-owner = PEU
-controller = PEU
+owner = NPE
+controller = NPE
+add_core = NPE
 add_core = PEU
-add_core = CHL
 trade_goods = wool
 life_rating = 35

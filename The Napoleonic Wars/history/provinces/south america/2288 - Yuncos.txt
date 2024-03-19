@@ -1,6 +1,6 @@
-owner = ECU
-controller = ECU
-add_core = ECU
+owner = GRA
+controller = GRA
+add_core = GRA
 add_core = PEU
 add_core = GCO
 trade_goods = wool

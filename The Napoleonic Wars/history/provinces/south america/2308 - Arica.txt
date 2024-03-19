@@ -1,6 +1,6 @@
-owner = PEU
-controller = PEU
+owner = LAP
+controller = LAP
+add_core = LAP
 add_core = PEU
-add_core = CHL
 trade_goods = sulphur
 life_rating = 35

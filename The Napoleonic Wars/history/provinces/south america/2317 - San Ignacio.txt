@@ -1,5 +1,5 @@
-owner = BOL
-controller = BOL
-add_core = BOL
+owner = NPE
+controller = NPE
+add_core = NPE
 trade_goods = tropical_wood
 life_rating = 30

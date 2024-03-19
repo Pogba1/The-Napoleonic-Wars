@@ -1,5 +1,10 @@
-owner = ARG
-controller = ARG
-add_core = ARG
-trade_goods = wool
-life_rating = 35naval_base = 1
+owner = LAP
+
+controller = LAP
+
+add_core = LAP
+
+trade_goods = wool
+life_rating = 35
+
+naval_base = 1
