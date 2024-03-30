@@ -16,7 +16,9 @@ name = "The War of the Second Coalition"
     add_defender = SIC
     add_defender = TUR
     add_defender = POR
+    add_defender = BRZ
     add_defender = SWI
+    add_attacker = KLN
 	
 	# actor
 	# receiver
