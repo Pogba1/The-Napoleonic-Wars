@@ -4,43 +4,43 @@
 	aristocrats = {
 		culture = swedish
 		religion = protestant
-		size = 150
+		size = 127
 	}
 
 	bureaucrats = {
 		culture = swedish
 		religion = protestant
-		size = 300
+		size = 255
 	}
 
 	officers = {
 		culture = swedish
 		religion = protestant
-		size = 100
+		size = 85
 	}
 
 	clergymen = {
 		culture = swedish
 		religion = protestant
-		size = 175
+		size = 148
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 2000
+		size = 1700
 	}
 
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 1100
+		size = 935
 	}
 
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 22125
+		size = 18806
 	}
 }
 #Sundsvall (80000/20000 POPS)
@@ -48,31 +48,31 @@
 	aristocrats = {
 		culture = swedish
 		religion = protestant
-		size = 50
+		size = 42
 	}
 
 	clergymen = {
 		culture = swedish
 		religion = protestant
-		size = 100
+		size = 85
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 1100
+		size = 935
 	}
 
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 250
+		size = 212
 	}
 
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 19100
+		size = 16235
 	}
 }
 #Ostersund (44000/11000 POPS)
@@ -80,31 +80,31 @@
 	clergymen = {
 		culture = swedish
 		religion = protestant
-		size = 50
+		size = 42
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 500
+		size = 425
 	}
 
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 100
+		size = 85
 	}
 
 	labourers = {
 		culture = swedish
 		religion = protestant
-		size = 9350
+		size = 7947
 	}
 
 	labourers = {
 		culture = norwegian
 		religion = protestant
-		size = 1100
+		size = 935
 	}
 }
 #Umea (56000/14000 POPS)
@@ -112,31 +112,31 @@
 	clergymen = {
 		culture = swedish
 		religion = protestant
-		size = 75
+		size = 63
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 750
+		size = 637
 	}
 
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 250
+		size = 212
 	}
 
 	labourers = {
 		culture = swedish
 		religion = protestant
-		size = 11925
+		size = 10136
 	}
 
 	farmers = {
 		culture = finnish
 		religion = protestant
-		size = 1100
+		size = 935
 	}
 }
 #Lulea (44000/11000 POPS)
@@ -144,43 +144,43 @@
 	clergymen = {
 		culture = swedish
 		religion = protestant
-		size = 50
+		size = 42
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 400
+		size = 340
 	}
 
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 1100
+		size = 935
 	}
 
 	labourers = {
 		culture = swedish
 		religion = protestant
-		size = 6250
+		size = 5312
 	}
 
 	artisans = {
 		culture = finnish
 		religion = protestant
-		size = 100
+		size = 85
 	}
 
 	farmers = {
 		culture = sami
 		religion = protestant
-		size = 2000
+		size = 1700
 	}
 
 	farmers = {
 		culture = finnish
 		religion = protestant
-		size = 1100
+		size = 935
 	}
 
 }
@@ -190,55 +190,55 @@
 	aristocrats = {
 		culture = swedish
 		religion = protestant
-		size = 250
+		size = 212
 	}
 
 	bureaucrats = {
 		culture = swedish
 		religion = protestant
-		size = 750
+		size = 637
 	}
 
 	officers = {
 		culture = swedish
 		religion = protestant
-		size = 500
+		size = 425
 	}
 
 	clergymen = {
 		culture = swedish
 		religion = protestant
-		size = 250
+		size = 212
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 10000
+		size = 8500
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 10000
+		size = 8500
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 1100
+		size = 935
 	}
 
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 4000
+		size = 3400
 	}
 
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 25250
+		size = 21462
 	}
 }
 #Falun (144000/36000 POPS)
@@ -246,31 +246,31 @@
 	aristocrats = {
 		culture = swedish
 		religion = protestant
-		size = 250
+		size = 212
 	}
 
 	clergymen = {
 		culture = swedish
 		religion = protestant
-		size = 250
+		size = 212
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 1750
+		size = 1487
 	}
 
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 1100
+		size = 935
 	}
 
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 32750
+		size = 27837
 	}
 }
 #Uppsala (88000/22000 POPS)
@@ -278,31 +278,31 @@
 	aristocrats = {
 		culture = swedish
 		religion = protestant
-		size = 100
+		size = 85
 	}
 
 	clergymen = {
 		culture = swedish
 		religion = protestant
-		size = 125
+		size = 106
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 1250
+		size = 1062
 	}
 
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 1100
+		size = 935
 	}
 
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 19525
+		size = 16596
 	}
 }
 #Norrkoping (221000/55250 POPS)
@@ -310,31 +310,31 @@
 	aristocrats = {
 		culture = swedish
 		religion = protestant
-		size = 250
+		size = 212
 	}
 
 	clergymen = {
 		culture = swedish
 		religion = protestant
-		size = 250
+		size = 212
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 3000
+		size = 2550
 	}
 
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 1100
+		size = 935
 	}
 
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 50750
+		size = 43137
 	}
 }
 #Vasteras (212000/53000 POPS)
@@ -342,31 +342,31 @@
 	aristocrats = {
 		culture = swedish
 		religion = protestant
-		size = 250
+		size = 212
 	}
 
 	clergymen = {
 		culture = swedish
 		religion = protestant
-		size = 250
+		size = 212
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 2750
+		size = 2337
 	}
 
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 1100
+		size = 935
 	}
 
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 48750
+		size = 41437
 	}
 }
 #Orebro (127000/31750 POPS)
@@ -374,31 +374,31 @@
 	aristocrats = {
 		culture = swedish
 		religion = protestant
-		size = 250
+		size = 212
 	}
 
 	clergymen = {
 		culture = swedish
 		religion = protestant
-		size = 125
+		size = 106
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 1500
+		size = 1275
 	}
 
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 1100
+		size = 935
 	}
 
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 28975
+		size = 24628
 	}
 }
 #Karlstad (190000/47500 POPS)
@@ -406,31 +406,31 @@
 	aristocrats = {
 		culture = swedish
 		religion = protestant
-		size = 400
+		size = 340
 	}
 
 	clergymen = {
 		culture = swedish
 		religion = protestant
-		size = 300
+		size = 255
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 2500
+		size = 2125
 	}
 
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 1100
+		size = 935
 	}
 
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 43300
+		size = 36805
 	}
 
 }
@@ -440,43 +440,43 @@
 	aristocrats = {
 		culture = swedish
 		religion = protestant
-		size = 250
+		size = 212
 	}
 
 	bureaucrats = {
 		culture = swedish
 		religion = protestant
-		size = 150
+		size = 127
 	}
 
 	officers = {
 		culture = swedish
 		religion = protestant
-		size = 250
+		size = 212
 	}
 
 	clergymen = {
 		culture = swedish
 		religion = protestant
-		size = 250
+		size = 212
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 5000
+		size = 4250
 	}
 
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 1100
+		size = 935
 	}
 
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 33750
+		size = 28687
 	}
 }
 #Boras (220000/55000 POPS)
@@ -484,31 +484,31 @@
 	aristocrats = {
 		culture = swedish
 		religion = protestant
-		size = 500
+		size = 425
 	}
 
 	clergymen = {
 		culture = swedish
 		religion = protestant
-		size = 250
+		size = 212
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 2500
+		size = 2125
 	}
 
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 1100
+		size = 935
 	}
 
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 50750
+		size = 43137
 	}
 }
 #Visby (40000/10000 POPS)
@@ -516,31 +516,31 @@
 	aristocrats = {
 		culture = swedish
 		religion = protestant
-		size = 100
+		size = 85
 	}
 
 	clergymen = {
 		culture = swedish
 		religion = protestant
-		size = 50
+		size = 42
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 700
+		size = 595
 	}
 
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 100
+		size = 85
 	}
 
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 9050
+		size = 7692
 	}
 }
 #Kalmar (182000/45500 POPS)
@@ -548,31 +548,31 @@
 	aristocrats = {
 		culture = swedish
 		religion = protestant
-		size = 300
+		size = 255
 	}
 
 	clergymen = {
 		culture = swedish
 		religion = protestant
-		size = 225
+		size = 191
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 2500
+		size = 2125
 	}
 
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 1100
+		size = 935
 	}
 
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 41475
+		size = 35253
 	}
 }
 #Vaxjo (276000/69000 POPS)
@@ -580,31 +580,31 @@
 	aristocrats = {
 		culture = swedish
 		religion = protestant
-		size = 500
+		size = 425
 	}
 
 	clergymen = {
 		culture = swedish
 		religion = protestant
-		size = 375
+		size = 318
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 3500
+		size = 2975
 	}
 
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 1100
+		size = 935
 	}
 
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 63625
+		size = 54081
 	}
 }
 #Malmo (312000/77000 POPS)
@@ -612,31 +612,31 @@
 	aristocrats = {
 		culture = swedish
 		religion = protestant
-		size = 750
+		size = 637
 	}
 
 	clergymen = {
 		culture = swedish
 		religion = protestant
-		size = 375
+		size = 318
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 3750
+		size = 3187
 	}
 
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 1100
+		size = 935
 	}
 
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 69125
+		size = 58756
 	}
 }
 #Karlskrona (259000/64750 POPS)
@@ -644,31 +644,31 @@
 	aristocrats = {
 		culture = swedish
 		religion = protestant
-		size = 625
+		size = 531
 	}
 
 	clergymen = {
 		culture = swedish
 		religion = protestant
-		size = 375
+		size = 318
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 3125
+		size = 2656
 	}
 
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 1100
+		size = 935
 	}
 
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 60625
+		size = 51531
 	}
 
 }
